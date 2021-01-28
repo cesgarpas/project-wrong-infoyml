@@ -5,7 +5,7 @@ project:
     pivotal:
       url: 'https://www.pivotaltracker.com/n/projects/2242320234234'
     heroku:
-      url: 'https://dashboard.heroku.com/apps/eagle-testinguuu'
+      url: 'https://dashboard.heroku.com/apps/cgp-01'
     travis:
       url: 'https://travis-ci.org/github/cesgarpas/eagle-testinguuu'
     codecov:
