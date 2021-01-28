@@ -1,0 +1,25 @@
+project:
+  name: 'My Project Name'
+  owner: 'owner1'
+  identities:
+    pivotal:
+      url: 'https://www.pivotaltracker.com/n/projects/2242320234234'
+    heroku:
+      url: 'https://dashboard.heroku.com/apps/eagle-testinguuu'
+    travis:
+      url: 'https://travis-ci.org/github/cesgarpas/eagle-testinguuu'
+    codecov:
+      url: 'https://codecov.io/gh/cesgarpas/eagle-testing'
+  members:
+    member1:
+      name: 'Maria'
+      surname: 'Dominguez' 
+      githubUsername: 'cesgarpas'
+      pivotalUsername: 'cesgarpas'
+      herokuEmail: 'maria@email.com'
+    member2:
+      name: 'Paco'
+      surname: 'Domingo' 
+      githubUsername: '2344233424'
+      pivotalUsername: '345345'
+      herokuEmail: 'domingo'
